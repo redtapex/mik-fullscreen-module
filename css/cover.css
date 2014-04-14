@@ -147,7 +147,7 @@ line-height: 60px;
  */
 @media (max-device-width: 480px) { 
   .cover-container {
-    width: 73%; /* Must be percentage or pixels for horizontal alignment */
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
     margin: 0;
   }
   #email {
@@ -156,7 +156,7 @@ line-height: 60px;
 }
 @media (max-width: 480px) {
   .cover-container {
-    width: 73%; /* Must be percentage or pixels for horizontal alignment */
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
     margin: 0;
   }
   #email {
